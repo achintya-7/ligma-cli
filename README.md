@@ -7,14 +7,9 @@ You need to have Go installed on your hardware
 go install github.com/achintya-7/ligma-cli@latest
 ```
 
-## To get a random joke
+## To get a gist of what it can do
 ```
-ligma-cli random
-```
-
-## To get a random joke with a term
-```
-ligma-cli random --term sea
+ligma-cli -h
 ```
 
 ## Packages and Tech
